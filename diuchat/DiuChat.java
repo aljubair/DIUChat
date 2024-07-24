@@ -13,9 +13,7 @@ package com.example.pollo.diuchat;
         import com.squareup.picasso.OkHttpDownloader;
         import com.squareup.picasso.Picasso;
 
-/**
- * Created by AkshayeJH on 01/07/17.
- */
+
 
 public class DiuChat extends Application{
 
